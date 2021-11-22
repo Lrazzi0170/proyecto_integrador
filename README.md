@@ -1,9 +1,18 @@
-=== Descripcion del proyecto ===
+Descripción del proyecto
+========================
 
-=== Objectivo ===
 
-=== Paginas usadas como referencia ===
+Objetivo
+========
 
-=== Introduccion de los miembros del equipo ===
 
-== Wireframe del proyecto ===
+Páginas usadas como referencia
+==============================
+
+
+Introducción de los miembros del equipo
+=======================================
+
+
+Wireframe del proyecto
+======================
