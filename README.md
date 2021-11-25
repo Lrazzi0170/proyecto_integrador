@@ -18,9 +18,10 @@ Páginas usadas como referencia
 
 Introducción de los miembros del equipo
 =======================================
-* 
-* 
-* 
+* Soy Yohan Sebastian Ibarguen Palacios, tengo 23 años y vivo en colombia, soy ingeniero biomedico y me gusta la programacion y los coches.
+* Soy Nicolas Clotta, tengo 22, vivo en Buenos Aires y programo hace un
+  par de años como hobby.
+* Soy Gonzalo Ruiz, mi edad es de 24 y vivo en Córdoba, soy técnico en Recursos Humanos y me encuentro realizando una capacitación de administrador de azure. Por último, soy fanatico de River.
 
 Links
 =====
